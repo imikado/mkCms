@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure>
+<colonne primaire="true">id</colonne>
+<colonne>cont_title</colonne>
+<colonne>cont_text</colonne>
+<colonne>cont_datetime</colonne>
+<colonne>cont_order</colonne>
+<colonne>category_id</colonne>
+</structure>
