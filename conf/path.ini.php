@@ -1,5 +1,5 @@
 [path]
-lib=/home/mika/www/mkf4builder/lib/framework/
+lib=/home/mika/www/framework/
 
 data=../data/
 upload=upload/
